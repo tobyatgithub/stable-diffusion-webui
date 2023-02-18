@@ -1,0 +1,2 @@
+1 - sampler parameter -> eta noise seed == 0
+2 - stable diffusion -> clip skip = 0; SD VAE = {select one}

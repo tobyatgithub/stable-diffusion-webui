@@ -1,0 +1,19 @@
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), omertosa, 1girl, (Kpop idol), (aegyo sal:1), cute, cityscape, night, rain, wet, professional lighting, photon mapping, radiosity, physically-based rendering,
+Negative prompt: EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,strange fingers,bad hand
+ENSD: 31337, Size: 768x1024, Seed: 4144342344, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7.5, Clip skip: 2, Model hash: db220d90e5, Hires upscale: 1.35, Hires upscaler: Latent, Denoising strength: 0.7
+
+
+<koreanDollLikeness_v10:0.66>, best quality, ultra high res, (photorealistic:1.4), 1woman, (white bikini:1.4), beach, (Kpop idol), posing, (low angle), (bokeh), sunset, (aegyo sal:1), medium breasts, (light blue hair:1), ((puffy eyes)), looking at viewer, laughing, happy, full body
+Negative prompt: paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, nsfw, nipples
+Size: 512x768, Seed: 689604392, Steps: 28, Sampler: DPM++ SDE Karras, CFG scale: 8, Model hash: a757fe8b3d, Hires steps: 20, Hires upscale: 1.75, Hires upscaler: Latent (bicubic antialiased), Denoising strength: 0.47
+
+
+
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),<lora:koreanDollLikeness_v10:0.5> ,omertosa,1girl,(Kpop idol), (aegyo sal:1),cute,cityscape, night, rain, wet, professional lighting, photon mapping, radiosity, physically-based rendering,
+Negative prompt: EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,strange fingers,bad hand
+Size: 512x768, Seed: 2547147909, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Model hash: a757fe8b3d, Hires steps: 20, Hires upscale: 1.75, Hires upscaler: Latent (antialiased), Denoising strength: 0.5 0.31
+
+
+1girl, (ulzzang-6500:0.725), kpop idol, yae miko, detached sleeves, bare shoulders, (sideboob:1.45), pink hair, long hair, japanese clothes, best quality, (photorealistic:1.2), (hair ornament:1.35), jewelry, purple eyes, earrings,, large breasts, torii,  cherry blossoms,  lantern light, depth of field, detailed face, face focus, bodystocking, ribbon_trim, white skirt, white dress,  (looking at viewer:1.25), nontraditional miko, shiny skin, long sleeves, smile, thick lips, game cg, thighhighs, (bare breasts:1.25), hands on lips, east asian architecture, blurry background, full body,
+Negative prompt: bright lantern, brightness, (nipples:1.2), pussy, EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,strange fingers,bad hand
+ENSD: 1337, Size: 480x640, Seed: 3322320653, Model: chilloutmix_Ni, Steps: 20, Sampler: DPM++ SDE, CFG scale: 6, Clip skip: 2, Model hash: 7234b76e42, Hires steps: 10, Hires upscale: 1.5, AddNet Enabled: True, AddNet Model 1: koreanDollLikeness_v10(e2e472c06607), AddNet Model 2: YaeMiko_Test(8eafb307ecf8), Hires upscaler: Latent, AddNet Module 1: LoRA, AddNet Module 2: LoRA, AddNet Weight A 1: 0.38, AddNet Weight A 2: 0.8, AddNet Weight B 1: 0.38, AddNet Weight B 2: 0.8, Denoising strength: 0.7
